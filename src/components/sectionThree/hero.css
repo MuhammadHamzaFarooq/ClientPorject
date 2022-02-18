@@ -1,0 +1,13 @@
+.section-three {
+  background-color: #cbbeff;
+  padding: 8% 0;
+}
+
+.section-three .player-box {
+  display: flex;
+}
+
+.section-three .section-three-title {
+  line-height: 55px;
+  text-align: center;
+}
