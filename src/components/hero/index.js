@@ -42,11 +42,12 @@ function Hero() {
 
           <Grid item xs={12} lg={5}>
             <div>
-              <div style={{ width: "100%", position: "relative" }}>
+              <div style={{ width: "100%", position: "relative" }}  >
                 <img
                   src={CoinOne}
                   style={{ position: "absolute", right: 0, top: "150px" }}
                   width="120px"
+                
                 />
                 <img
                   src={CoinOne}
